@@ -1,4 +1,5 @@
 require 'date'
+
 namespace :posts do
   task :create do
     params = ARGV.clone
@@ -29,3 +30,5 @@ namespace :posts do
     end
   end
 end
+
+task default: ["posts:create"]

@@ -1,0 +1,9 @@
+---
+layout: post
+title: node.js util
+date: August 29, 2014
+category: node.js
+customid: d0cihb15n55n288zqo4lw
+---
+
+* [depcheck](https://www.npmjs.org/package/depcheck), find unused deps defined in package.json
