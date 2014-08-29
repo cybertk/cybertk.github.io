@@ -7,3 +7,4 @@ customid: d0cihb15n55n288zqo4lw
 ---
 
 * [depcheck](https://www.npmjs.org/package/depcheck), find unused deps defined in package.json
+* Run `npm-check-updates -u` to update packages in package.json to latest version.
