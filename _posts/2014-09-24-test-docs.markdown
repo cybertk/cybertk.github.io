@@ -1,0 +1,10 @@
+---
+layout: post
+title: Test Docs
+date: September 24, 2014
+category: test
+customid: hojxleigjbuxrf4abbrjj
+---
+
+- http://www.tutorialspoint.com/software_testing/index.htm
+- http://sqa.fyicenter.com/
